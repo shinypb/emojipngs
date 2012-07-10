@@ -1,4 +1,1 @@
-emojipngs
-=========
-
-Apple's Emoji character set as PNGs
+Extracted by Mark Christian (@shinypb) using textorize (http://textorize.org/). <3.
