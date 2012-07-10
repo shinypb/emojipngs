@@ -1,1 +1,1 @@
-Extracted by Mark Christian (@shinypb) using textorize (http://textorize.org/). <3.
+Extracted by Mark Christian ([@shinypb](http://twitter.com/shinypb)) using [textorize](http://textorize.org/). <3.
